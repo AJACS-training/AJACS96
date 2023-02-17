@@ -227,7 +227,7 @@ saveを押した後、そのフォルダにファイルを加えていきます�
 
 このsetting画面は今までの設定画面とは異なり、**Merge method**が加わっています。この項目では、コレクションの中にあるトラックのシグナル値をマージする**add**や、**transpalent, solid, stacked, subtract**があります。
 
-まず試しにaddを行い、somoothing windowを5で可視化してみたものを表示します。
+まず試しにaddを行い、smoothing windowを5で可視化してみたものを表示します。
 
 ![スクリーンショット 2023-01-17 21 12 40](https://user-images.githubusercontent.com/296176/219511261-f2cf17d9-aedc-485a-b6df-5a28c5ebd8c6.png)
 
